@@ -1,0 +1,19 @@
+{
+  "name": "cloudhack",
+  "version": "0.0.1",
+  "description": "exports from elastic cloud oauth protected indices",
+  "main": "dropit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dolphins"
+  ],
+  "author": "Rashid Khan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "elasticsearch": "^14.0.0",
+    "yargs": "^10.0.3"
+  }
+}
